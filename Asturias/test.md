@@ -1,17 +1,19 @@
 ---
 title: markdown
 ---
-# Heading 1
-## Heading 2
 
- Hello word!
+## Heading 1
 
- We will output Markdown to:
- - HTML
- - docx
- - PDF
- 
- Does it really work?
+### Heading 2
 
- Link to (Google)[http://www.google.com/]
- 
+Hello word!
+
+We will output Markdown to:
+
+- HTML
+- docx
+- PDF
+
+Does it really work?
+
+Link to [http://www.google.com/](Google)
