@@ -1,5 +1,4 @@
 {
-    "$schema": "schema",
     "$id": "https://example.com/product.schema.json",
     "title": "frontmatter schema",
     "description": "A Yaml schema for my frontmatter",
