@@ -1,0 +1,14 @@
+{
+    "$schema": "schema",
+    "$id": "https://example.com/product.schema.json",
+    "title": "frontmatter schema",
+    "description": "A Yaml schema for my frontmatter",
+    "type": "object",
+    "properties": {
+        "title": {
+          "description": "Título de la nota",
+          "type": "string"
+        }
+      },
+      "required": [ "title" ]
+}
